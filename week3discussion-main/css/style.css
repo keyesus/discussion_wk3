@@ -1,0 +1,18 @@
+body {
+    background-color: #afdc27;
+    font-family: "Times New Roman", Arial, Helvetica, serif;
+    color: #a20606;
+}
+/* background color is a light green color to represent the freshness of the tea leaves. Font red to compliment the green background. In Times New Roman. */
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
+/* all headings are bold to make them stand out and be easily readable. */
+
+img {
+    border: 12px solid #490202;
+    border-radius: 10px;
+    max-width: 300px;
+    height: 200px;
+}
